@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uneeque
+- 👋 Hi, I’m Nursultan
 - 👀 I’m interested in RPA Developing
 - 🌱 I’m currently learning RPA courses on UiPath
 - 💞️ I’m looking to collaborate on ...
