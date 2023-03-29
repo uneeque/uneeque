@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nursultan
-- 👀 I’m interested in RPA Developing
-- 🌱 I’m currently learning RPA courses on UiPath
+- 👀 I’m RPA Developing
+- 🌱 I’m currently learning RPA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "bazarbaevnurz@gmail.com"
 
